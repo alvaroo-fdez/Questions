@@ -8,5 +8,45 @@
         "incorrecta3": "Will Smith",
         "imagen": "https://media.admagazine.com/photos/62793d84db5b2c431beba99d/16:9/w_2560%2Cc_limit/GettyImages-1165173882.jpg",
         "objectFit": "cover"
+    },
+    {
+        "categoria": "Cantantes",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Taylor Swift",
+        "incorrecta1": "Shakira",
+        "incorrecta2": "Halsey",
+        "incorrecta3": "Katy Perry",
+        "imagen": "https://phantom-marca.unidadeditorial.es/bc974f98ce92205789e74412b44176f1/resize/1320/f/jpg/assets/multimedia/imagenes/2020/11/18/16057020070474.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Futbolistas",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Vinicius Jr",
+        "incorrecta1": "Neymar",
+        "incorrecta2": "Rodrygo",
+        "incorrecta3": "Coutinho",
+        "imagen": "https://www.diariogol.com/wp-content/uploads/2020/09/Vin%C3%ADcius-Jr-1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Futbolistas",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Iago Aspas",
+        "incorrecta1": "Gerard Moreno",
+        "incorrecta2": "Borja Iglesias",
+        "incorrecta3": "Morales",
+        "imagen": "https://phantom-marca.unidadeditorial.es/6b8c208d8afe8b294f438c1a0537414e/resize/1320/f/jpg/assets/multimedia/imagenes/2021/04/29/16196790068389.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cantantes",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "David Bustamante",
+        "incorrecta1": "David Bisbal",
+        "incorrecta2": "Melendi",
+        "incorrecta3": "Antonio Orozco",
+        "imagen": "https://www.lecturas.com/medio/2022/01/11/david-bustamante-collage-no-utilizar_a1e7bab1_1280x720.jpg",
+        "objectFit": "cover"
     }
 ]
