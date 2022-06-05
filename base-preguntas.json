@@ -8,15 +8,5 @@
         "incorrecta3": "Will Smith",
         "imagen": "https://media.admagazine.com/photos/62793d84db5b2c431beba99d/16:9/w_2560%2Cc_limit/GettyImages-1165173882.jpg",
         "objectFit": "cover"
-    },
-    {
-        "categoria": "Cantantes",
-        "pregunta": "¿Quién es esta persona?",
-        "respuesta": "Taylor Swift",
-        "incorrecta1": "Shakira",
-        "incorrecta2": "Halsey",
-        "incorrecta3": "Katy Perry",
-        "imagen": "https://phantom-marca.unidadeditorial.es/bc974f98ce92205789e74412b44176f1/resize/1320/f/jpg/assets/multimedia/imagenes/2020/11/18/16057020070474.jpg",
-        "objectFit": "cover"
     }
 ]
