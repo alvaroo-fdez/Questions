@@ -48,5 +48,55 @@
         "incorrecta3": "Antonio Orozco",
         "imagen": "https://www.lecturas.com/medio/2022/01/11/david-bustamante-collage-no-utilizar_a1e7bab1_1280x720.jpg",
         "objectFit": "cover"
+    },
+    {
+        "categoria": "Cantantes",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Pablo Alborán",
+        "incorrecta1": "Alejandro Sanz",
+        "incorrecta2": "Estopa",
+        "incorrecta3": "El Cigala",
+        "imagen": "https://www.hola.com/imagenes/actualidad/20201207180459/pablo-alboran-entrevista-terrazas/0-898-900/pablo-alboran-gtres-t.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Actrices",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Penélope Cruz",
+        "incorrecta1": "Blanca Suárez",
+        "incorrecta2": "Paz Vega",
+        "incorrecta3": "María Valverde",
+        "imagen": "https://ak.uecdn.es/p/108/thumbnail/entry_id/0_b0xcqygc/width/660/cache_st/1654525424/type/2/bgcolor/000000/0_b0xcqygc.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Actrices",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Úrsula Corberó",
+        "incorrecta1": "Inma Cuesta",
+        "incorrecta2": "Elsa Pataky",
+        "incorrecta3": "Maribel Verdú",
+        "imagen": "https://phantom-telva.unidadeditorial.es/57cc3499c19e482fe26c9536deb4b796/resize/828/f/jpg/assets/multimedia/imagenes/2021/12/01/16383463106609.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Actores",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Mario Casas",
+        "incorrecta1": "José Coronado",
+        "incorrecta2": "Javier Cámara",
+        "incorrecta3": "Hugo Silva",
+        "imagen": "https://www.lecturas.com/medio/2020/09/23/mario-casas-tambien-estara-en-el-regreso-de-los-hombres-de-paco_97d2f179_1200x630.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Influencers",
+        "pregunta": "¿Quién es esta persona?",
+        "respuesta": "Marta Díaz",
+        "incorrecta1": "Lola lolita",
+        "incorrecta2": "Lucía Bellido",
+        "incorrecta3": "Rivers",
+        "imagen": "hhttps://gcdn.lanetaneta.com/wp-content/uploads/2022/04/Los-039outfits039-de-Marta-Diaz-en-Coachella-arrasan-en-las.jpeg",
+        "objectFit": "cover"
     }
 ]
