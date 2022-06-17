@@ -1,1 +1,18 @@
-s
+[
+    {
+        "categoria": "Liga Santander",
+        "pregunta": "FC Barcelona",
+        "respuesta": "Falso",
+        "incorrecta1": "Verdadero",
+        "imagen": "https://i1.wp.com/himnode.com/wp-content/uploads/2019/05/granada-cf-spanish-football-club-logo-escudo-la-liga-himnode.com_.jpg?fit=3840%2C2400&ssl=1",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Premier League",
+        "pregunta": "Manchester United FC",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "imagen": "https://www.futbolsapiens.com/wp-content/uploads/2020/08/Manchester-United-logotipo.jpg",
+        "objectFit": "cover"
+    }
+]
